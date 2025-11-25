@@ -1,5 +1,5 @@
 # 📘 Responsible AI – Comparative Insights & Learnings  
-**Date:** July 11, 2025  
+**Date:** July 12, 2025  
 **Activity Type:** Knowledge Sharing / Learning Summary  
 **Topic:** Responsible Artificial Intelligence (RAI)  
 **Source:** *What Is Responsible AI? A Comparative Approach* (DataCamp, March 11, 2025)
