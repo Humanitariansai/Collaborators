@@ -30,7 +30,7 @@ To align the article with traveler search behavior around airports in Barbados, 
 
   * Title
   * Headings
-  * First 100 words
+  * In te whole article
   * Final call-to-action paragraph
   * One natural paragraph body placement
 
