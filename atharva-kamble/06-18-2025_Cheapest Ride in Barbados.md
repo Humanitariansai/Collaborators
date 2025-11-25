@@ -58,7 +58,7 @@ This helps position Barbados as not just scenic, but also versatile, accessible,
 
 ---
 
-## 💋 What I Wrote About
+## What I Wrote About
 
 ### Main Goals:
 
