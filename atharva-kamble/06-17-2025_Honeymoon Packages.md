@@ -57,7 +57,7 @@ It sets Barbados apart from Maldives or Mauritius by offering more diversity in 
 
 ---
 
-## 💋 What I Wrote About
+## What I Wrote About
 
 ### Main Goals:
 - Educate Indian couples on romantic travel options in Barbados.
