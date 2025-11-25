@@ -51,7 +51,7 @@ The article aimed to present Barbados as more than just a beach destination:
 
 Local experiences such as rum tastings, visits to Crane Beach, and the Animal Flower Cave were included to differentiate Barbados from typical island getaways.
 
-💋 What I Wrote About
+What I Wrote About
 
 ### Main Goals:
 
