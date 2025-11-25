@@ -11,8 +11,8 @@ The purpose of this session was to **onboard two new team members** and provide 
 ---
 
 ## 👥 Participants  
-- **Trainer:** [Your Name]  
-- **Trainees:** [Name 1], [Name 2]  
+- **Trainer:** Atharva Kamble  
+- **Trainees:** Sanjeeth Chakrasali, Shaun Noronha  
 
 ---
 
