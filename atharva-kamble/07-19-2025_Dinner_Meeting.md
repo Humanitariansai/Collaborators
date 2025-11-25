@@ -13,12 +13,6 @@ The goal was to align all stakeholders on strategy, responsibilities, and next s
 
 ---
 
-## 👥 Attendees  
-- [Your Name] – SEO & Website Strategy  
-- [Team Members/Stakeholders Names] – Development & Client Projects  
-
----
-
 ## 📌 Topics Discussed  
 
 ### 1️⃣ SEO Strategy for Bimride  
