@@ -18,7 +18,7 @@ The goal was to align all stakeholders on strategy, responsibilities, and next s
 ### 1️⃣ SEO Strategy for Bimride  
 - Reviewed current SEO performance and competitor strategies.  
 - Discussed implementing **structured data (LocalBusiness, FAQPage schema)** to improve search visibility.  
-- Agreed to create **location-specific landing pages** targeting long-tail keywords like “Barbados airport taxi service” and “ride-hailing in [city]”.  
+- Agreed to create **location-specific landing pages** targeting long-tail keywords like “Barbados airport taxi service” and “ride-hailing in city of Barbados”.  
 - Planned **10 SEO blogs for the next 2 months** with optimized meta tags and internal linking.  
 - Tools to be used: **Google Search Console, Ahrefs, Ubersuggest.**
 
