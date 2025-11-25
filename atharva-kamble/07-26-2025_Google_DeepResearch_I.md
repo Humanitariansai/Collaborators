@@ -94,9 +94,3 @@ By improving entity recognition and authority signals, Bimride will:
 * Increase **click-through rates and ride bookings** due to higher trust and exposure.
 
 ---
-
-This documentation serves as **Part 1** of a 3-step research plan:
-
-1. Understanding AI Deep Search & why Bimride should aim for inclusion.
-2. Analyzing how Google selects brands for AI-generated answers.
-3. Building a detailed step-by-step strategy for Bimride to get featured.
