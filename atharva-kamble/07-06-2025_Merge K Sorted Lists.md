@@ -1,6 +1,6 @@
 # Merge K Sorted Lists
 
-These 7 documentation ideas are designed to be simple yet meaningful. They align with Bimride's goals as a ride-hailing platform and can draw inspiration from software practices, Uber-like features, or relevant LeetCode patterns.
+This documentation align with Bimride's goals as a ride-hailing platform and can draw inspiration from software practices, Uber-like features, or relevant LeetCode patterns.
 
 ---
 
