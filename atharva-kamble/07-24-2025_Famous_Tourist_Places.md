@@ -21,7 +21,7 @@ To optimize the article for first-time travelers searching for top destinations 
 - Each keyword was included **exactly twice** in the article.  
 - Keywords were placed strategically in:  
   - **Title and Meta Title**  
-  - **First 100 words**  
+  - **Throughout the article**  
   - **At least one H2 or H3 subheading**  
   - **Within body paragraphs naturally**  
   - **Final call-to-action paragraph**
