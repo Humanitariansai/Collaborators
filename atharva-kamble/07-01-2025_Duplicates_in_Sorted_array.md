@@ -77,7 +77,7 @@ Properly returning `i + 1` instead of `i` avoids common off-by-one errors when c
 This problem and its solution are relevant to real-world systems like **BimRide** in the following ways:
 
 ### 1. Deduplicating Driver or Rider Lists
-When syncing data from multiple sources, you might receive repeated entries (e.g., same driver showing twice). A two-pointer rewrite like this efficiently cleans the data.
+When syncing data from multiple sources, we might receive repeated entries (e.g., same driver showing twice). A two-pointer rewrite like this efficiently cleans the data.
 
 ### 2. Streamlining Sorted Logs or Telemetry Data
 Ride-tracking systems may generate sorted but duplicate telemetry points. Efficient in-place cleanup helps reduce storage and processing costs.
