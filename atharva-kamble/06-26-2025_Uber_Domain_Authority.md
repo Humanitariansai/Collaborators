@@ -48,7 +48,7 @@ Use the following tools to inspect Uber’s authority and backlink profile:
   - Authority Score: 95+
   - Top anchor texts: “uber”, “ride with uber”, “download the app”
 
-Tip: You can enter `uber.com` into these tools to extract link types, do-follow/nofollow status, backlink growth over time, and top linked pages (e.g., `/drive`, `/cities/*`, `/airports/*`).
+We can enter `uber.com` into these tools to extract link types, do-follow/nofollow status, backlink growth over time, and top linked pages (e.g., `/drive`, `/cities/*`, `/airports/*`).
 
 ## How Uber Maintains Authority
 
@@ -63,9 +63,9 @@ Uber doesn’t just acquire links — it **maintains domain trust** by:
 
 Google rewards this **long-term trust-building** by giving Uber faster indexing, better crawling rates, and higher placements for even new content.
 
-## What You Can Replicate
+## What We Can Replicate
 
-While you can’t instantly get Uber’s link profile, you can begin building trust and backlinks for your own ride-hailing site (e.g., Bimride) through:
+While we can’t instantly get Uber’s link profile, we can begin building trust and backlinks for our own ride-hailing site (e.g., Bimride) through:
 
 1. **Local Business Listings**
    - Submit to: Google Business Profile, Yelp, Bing Places, Yellow Pages, TripAdvisor
