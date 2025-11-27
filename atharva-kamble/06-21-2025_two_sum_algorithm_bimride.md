@@ -5,8 +5,8 @@
 Given an array of integers `nums` and an integer `target`, return the indices of the two numbers such that they add up to `target`.
 
 - Each input will have exactly one solution.
-- You may not use the same element twice.
-- You may return the answer in any order.
+- We may not use the same element twice.
+- We may return the answer in any order.
 
 ---
 
