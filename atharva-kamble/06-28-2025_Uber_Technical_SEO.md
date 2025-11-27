@@ -81,7 +81,7 @@ Uber’s site is fully responsive with:
 
 ## Testing Uber’s Pages with Google Tools
 
-You can confirm Uber’s technical SEO success using:
+We confirm Uber’s technical SEO success using:
 
 ### ✅ [Google PageSpeed Insights](https://pagespeed.web.dev/)
 Test: `https://www.uber.com/global/en/cities/chicago/`
@@ -106,7 +106,7 @@ Results:
 
 <!-- ## How to Replicate Uber’s Technical SEO Stack
 
-Even without a large engineering team, you can optimize your ride-hailing blog or product site using these lean but powerful strategies:
+Even without a large engineering team, we optimize our ride-hailing blog or product site using these lean but powerful strategies:
 
 ### ✅ 1. Host on a Speed-Optimized Platform
 - Use [Vercel](https://vercel.com/), [Netlify](https://netlify.com/), or [Cloudflare Pages](https://pages.cloudflare.com/)
@@ -150,4 +150,4 @@ By following these best practices, even small-scale platforms like Bimride can:
 - Convert more mobile users
 - Build Google trust over time
 
-A fast site isn’t just good for users — it’s a ranking signal Google now rewards at every stage of your SEO journey.
+A fast site isn’t just good for users — it’s a ranking signal Google now rewards at every stage of our SEO journey.
