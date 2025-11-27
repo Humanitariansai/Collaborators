@@ -128,9 +128,9 @@ Uber’s local landing pages are built not just to rank, but to **convert**:
 
 ---
 
-## How You Can Replicate Uber’s Local SEO Model
+## How We Can Replicate Uber’s Local SEO Model
 
-If you're building a ride-hailing site or blog like **Bimride**, here’s a simple local SEO system you can implement:
+If we are building a ride-hailing site or blog like **Bimride**, here’s a simple local SEO system we can implement:
 
 ### 1. Build City- or Region-Specific Pages
 - Use URLs like `/barbados`, `/bridgetown`, `/airport-transfer`
@@ -177,9 +177,9 @@ Uber’s Local SEO dominance is not an accident — it’s the result of a caref
 - **Scalable city/airport page structures**
 - **Search intent alignment**
 
-Even without Uber’s authority, you can replicate their model at a smaller scale by:
+We can replicate their model at a smaller scale by:
 - Creating templated, useful local content
 - Optimizing on-page SEO with city keywords and schema
-- Linking your pages in a clean, logical way
+- Linking our pages in a clean, logical way
 
 This is how Uber **owns the first page** for local ride queries — and how platforms like **Bimride** can start doing the same, one city at a time.
