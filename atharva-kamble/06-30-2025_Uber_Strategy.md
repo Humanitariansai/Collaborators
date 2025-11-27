@@ -118,6 +118,6 @@ Uber’s SEO strategy goes far beyond keywords. It succeeds because everything i
 For Bimride or similar services:
 - Start by building a **purposeful content system** (not random blogs)
 - Link every page into the structure
-- If mobile is part of your experience, consider app indexing
+- If mobile is part of experience, we consider app indexing
 
-This system makes your SEO efforts **self-reinforcing** — every new page, feature, or blog becomes part of an ecosystem Google trusts more over time.
+This system makes our SEO efforts **self-reinforcing** — every new page, feature, or blog becomes part of an ecosystem Google trusts more over time.
