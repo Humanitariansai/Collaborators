@@ -86,7 +86,7 @@ The logic of the Two Sum problem can be directly mapped to real-world ride-haili
   Given a list of ride distances or estimated costs, the algorithm can help identify two passengers (in a shared ride scenario) whose combined route cost matches a pre-set limit or shared pricing tier.
 
 - **Driver Matching Optimization**:  
-  If you convert driver-passenger distances or ETAs into a numerical list, the same logic can help find two optimal pairs whose total travel or wait time meets a platform-defined efficiency goal.
+  If we convert driver-passenger distances or ETAs into a numerical list, the same logic can help find two optimal pairs whose total travel or wait time meets a platform-defined efficiency goal.
 
 - **Voucher or Discount Matching**:  
   Suppose a user has two ride vouchers that need to sum up to a specific trip cost — the Two Sum approach can identify applicable voucher combinations instantly.
