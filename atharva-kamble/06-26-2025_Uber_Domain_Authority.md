@@ -69,27 +69,27 @@ While we can’t instantly get Uber’s link profile, we can begin building trus
 
 1. **Local Business Listings**
    - Submit to: Google Business Profile, Yelp, Bing Places, Yellow Pages, TripAdvisor
-   - Add proper NAP (Name, Address, Phone) and link to your site
+   - Add proper NAP (Name, Address, Phone) and link to our site
 
 2. **Press Mentions & Outreach**
    - Contact local news blogs or radio for interviews
-   - Offer commentary or stories about transportation challenges in your area
+   - Offer commentary or stories about transportation challenges in our area
 
 3. **Partnerships with Local Sites**
-   - Collaborate with hotels, event organizers, or universities who can list your service
+   - Collaborate with hotels, event organizers, or universities who can list our service
    - Request backlinks on their travel or visitor pages
 
 4. **Create Linkable Content**
    - “Ride from XYZ Airport: Complete Pricing Guide”
-   - “Top 5 Tourist Destinations in [Your City] with Affordable Transport”
+   - “Top 5 Tourist Destinations in [Your City/ State] with Affordable Transport”
    - “How Bimride Helps Locals Save on Commutes (Case Study)”
 
-5. **Track and Protect Your Backlink Profile**
+5. **Track and Protect our Backlink Profile**
    - Use Ahrefs Webmaster Tools (free) or Google Search Console
    - Check for bad/spammy links and use the disavow tool if needed
 
 ## Final Takeaways
 
-Uber’s domain authority is a result of years of link-building, brand visibility, technical SEO, and trust. While it’s not possible to copy Uber’s backlink profile overnight, you can **start small and local** by building relationships, getting featured on relevant sites, and creating trustworthy content worth linking to.
+Uber’s domain authority is a result of years of link-building, brand visibility, technical SEO, and trust. While it’s not possible to copy Uber’s backlink profile overnight, we can **start small and local** by building relationships, getting featured on relevant sites, and creating trustworthy content worth linking to.
 
 Building authority is slow — but it's the single most durable ranking factor for long-term SEO success.
