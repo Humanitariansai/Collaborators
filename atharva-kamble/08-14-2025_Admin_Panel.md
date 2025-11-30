@@ -29,16 +29,16 @@ Each user has a role such as admin, support, finance, or dispatcher. Your role d
 
 ## Finding the right record
 * Search by phone, email, or trip id  
-* Filter by city and date if you see many results  
+* Filter by city and date if we see many results  
 * Open the timeline on the trip page to see each step from request to receipt
 
 ## Safety rules
 * Only change what the ticket requires  
-* Write a short reason before you save a change  
+* Write a short reason before we save a change  
 * Never copy personal data outside approved tools  
-* Log out if you step away from your device
+* Log out if we step away from our device
 
-## Common actions you will use
+## Common actions we will use
 * Resend a receipt to the rider email  
 * Add a small fare adjustment with a note  
 * Help a rider update a payment method  
@@ -46,10 +46,10 @@ Each user has a role such as admin, support, finance, or dispatcher. Your role d
 * Check live ride status and share an arrival update
 
 ## Helpful habits
-* Confirm identity before you discuss account details  
-* Repeat back the request so the customer knows you heard them  
+* Confirm identity before we discuss account details  
+* Repeat back the request so the customer knows we heard them  
 * Keep messages short and polite  
 * Close the ticket with a clear summary
 
 Outcome  
-You can sign in, find the right record, make safe changes, and leave a clean audit trail that explains your work.
+We can sign in, find the right record, make safe changes, and leave a clean audit trail that explains your work.
