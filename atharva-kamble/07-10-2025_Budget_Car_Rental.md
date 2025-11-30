@@ -22,7 +22,7 @@ To align the article with user queries related to travel and rental convenience,
 * Santa Barbara Airport Car Rental
 * Rental Car Service Santa Barbara Airport
 
-Each keyword was used **exactly twice** throughout the article, following your SEO strategy while ensuring smooth and natural integration.
+Each keyword was used **exactly twice** throughout the article, following our SEO strategy while ensuring smooth and natural integration.
 
 ---
 
