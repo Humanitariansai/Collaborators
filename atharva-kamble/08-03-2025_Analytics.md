@@ -106,4 +106,4 @@ With a strong real-time analytics and monitoring foundation, Bimride can now:
 - Forecast demand and revenue with high precision
 - Enable smarter ML-based matching and fraud prevention
 
-This concludes the 5-day architecture deep-dive. You're now ready to scale, observe, and innovate your ride-hailing system.
+This concludes the 5-day architecture deep-dive. We are now ready to scale, observe, and innovate our ride-hailing system.
