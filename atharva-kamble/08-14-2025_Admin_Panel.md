@@ -3,7 +3,7 @@
 Purpose: Give a clear overview of what the admin panel does, who should use it, and how to work safely and confidently.
 
 ## What the admin panel is
-The admin panel is a secure website for BimRide staff. It helps you find rider and driver information, look up trips, fix simple problems, and keep a record of what was done.
+The admin panel is a secure website for BimRide staff. It helps us find rider and driver information, look up trips, fix simple problems, and keep a record of what was done.
 
 ## Who uses it
 * Support team for customer help  
