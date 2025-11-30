@@ -8,7 +8,7 @@
 
 In ride-hailing platforms like **Bimride**, drivers and the platform aim to maximize earnings by understanding the best time to "buy" (accept a ride) and "sell" (complete it for maximum profit).  
 
-This problem is directly inspired by the **LeetCode problem "Best Time to Buy and Sell Stock"** where you are given an array of prices, and you must determine the maximum profit achievable by buying on one day and selling on another day in the future.  
+This problem is directly inspired by the **LeetCode problem "Best Time to Buy and Sell Stock"** where we are given an array of prices, and we must determine the maximum profit achievable by buying on one day and selling on another day in the future.  
 
 For Bimride, this concept can be mapped to understanding **ride price changes over time** and **optimizing the decision-making process to achieve maximum returns.**
 
