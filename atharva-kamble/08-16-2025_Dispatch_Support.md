@@ -1,6 +1,6 @@
 # BimRide Live Rides Dispatch And Trip Help
 
-Purpose: Help you support riders and drivers while a ride is active or just finished. Keep people calm, keep data correct, and keep notes clear.
+Purpose: Help support riders and drivers while a ride is active or just finished. Keep people calm, keep data correct, and keep notes clear.
 
 ## What happens during a normal ride
 * Rider requests a car and sees an estimate  
@@ -15,7 +15,7 @@ Purpose: Help you support riders and drivers while a ride is active or just fini
 * Share a simple update with the rider if needed
 
 ## When pickup is slow
-Steps you can try  
+Steps we can try  
 * Ask the rider to check the pickup pin and nearby street name  
 * Suggest a nearby corner if the street is blocked  
 * If the driver is far away offer a cancel and rematch if policy allows
@@ -52,4 +52,4 @@ Fees depend on the timing and state of the ride.
 * Suggest a larger car if a stroller or heavy luggage is present
 
 Outcome  
-You can follow a live ride, give simple guidance at pickup, finish a stuck trip when both sides agree, and leave a clear record that explains what you did.
+We can follow a live ride, give simple guidance at pickup, finish a stuck trip when both sides agree, and leave a clear record that explains what we  did.
