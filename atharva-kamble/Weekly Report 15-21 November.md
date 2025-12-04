@@ -12,10 +12,10 @@
 ## Overview  
 
 This week was about stopping theory and actually putting LLM concepts to work.  
-Instead of reading more material, you built a small retrieval augmented generation prototype, tested it under a real workflow, and forced your evaluation rubric to prove that it is useful instead of sitting in a document.
+Instead of reading more material, I built a small retrieval augmented generation prototype, tested it under a real workflow, and forced my evaluation rubric to prove that it is useful instead of sitting in a document.
 
 The focus was simple and ruthless  
-take one narrow use case, wire up retrieval, capture logs, score outputs, and update your LLM handbook with what actually worked and what broke.
+take one narrow use case, wire up retrieval, capture logs, score outputs, and update the LLM handbook with what actually worked and what broke.
 
 ---
 
@@ -23,7 +23,7 @@ take one narrow use case, wire up retrieval, capture logs, score outputs, and up
 
 ### Overview  
 
-You started by choosing a very specific use case so the RAG work did not explode in scope.
+Started by choosing a very specific use case so the RAG work did not explode in scope.
 
 ### Work Done  
 
@@ -36,7 +36,7 @@ You started by choosing a very specific use case so the RAG work did not explode
 
 ### Result  
 
-You ended the day with a clear target  
+Ended the day with a clear target  
 one focused RAG flow instead of a vague idea of many possible projects.
 
 ---
@@ -45,7 +45,7 @@ one focused RAG flow instead of a vague idea of many possible projects.
 
 ### Overview  
 
-You moved from planning to an actual working path from question to answer.
+Moved from planning to an actual working path from question to answer.
 
 ### Work Done  
 
@@ -56,7 +56,7 @@ You moved from planning to an actual working path from question to answer.
 
 ### Result  
 
-You now have a minimal RAG prototype that can answer questions using retrieved context instead of hallucinating freely.
+We now have a minimal RAG prototype that can answer questions using retrieved context instead of hallucinating freely.
 
 ---
 
@@ -64,19 +64,19 @@ You now have a minimal RAG prototype that can answer questions using retrieved c
 
 ### Overview  
 
-The goal for this day was to stop trusting your gut and actually score answers using the rubric you wrote last week.
+The goal for this day was to stop trusting gut instinct and actually score answers using the rubric written last week.
 
 ### Work Done  
 
 1. Collected around twenty real or realistic questions for the chosen use case.  
 2. Ran them through the RAG prototype and captured the answers.  
-3. Scored each answer with your rubric along several dimensions  
+3. Scored each answer with the rubric along several dimensions  
    relevance, grounding in context, clarity, and usefulness.  
 4. Marked the cases where the rubric felt wrong or too forgiving.
 
 ### Result  
 
-You now have a concrete set of question answer pairs with scores, and a first look at where the rubric is weak or misaligned with your expectations.
+Now have a concrete set of question answer pairs with scores, and a first look at where the rubric is weak or misaligned with expectations.
 
 ---
 
@@ -84,7 +84,7 @@ You now have a concrete set of question answer pairs with scores, and a first lo
 
 ### Overview  
 
-You focused on improving the answers by changing the prompts rather than touching the model.
+Focused on improving the answers by changing the prompts rather than touching the model.
 
 ### Work Done  
 
@@ -97,7 +97,7 @@ You focused on improving the answers by changing the prompts rather than touchin
 ### Result  
 
 Several weak answers improved in both grounding and usefulness.  
-You also saw clearly that prompt changes have limits when retrieval itself is poor, which prevents magical thinking about prompting.
+Also saw clearly that prompt changes have limits when retrieval itself is poor, which prevents magical thinking about prompting.
 
 ---
 
@@ -105,7 +105,7 @@ You also saw clearly that prompt changes have limits when retrieval itself is po
 
 ### Overview  
 
-You stopped guessing about behaviour and started capturing detailed logs.
+Stopped guessing about behaviour and started capturing detailed logs.
 
 ### Work Done  
 
@@ -117,7 +117,7 @@ You stopped guessing about behaviour and started capturing detailed logs.
 
 ### Result  
 
-You now have a traceable record for each answer instead of a blurry memory.  
+There's now a traceable record for each answer instead of a blurry memory.  
 This makes future debugging and iteration much easier.
 
 ---
@@ -126,13 +126,13 @@ This makes future debugging and iteration much easier.
 
 ### Overview  
 
-You turned the week into documentation instead of letting it evaporate.
+Turned the week into documentation instead of letting it evaporate.
 
 ### Work Done  
 
 1. Added a new chapter in the LLM handbook that describes  
    the RAG prototype, the prompt templates and the logging strategy.  
-2. Documented common failure cases you observed  
+2. Documented common failure cases observed  
    weak retrieval, overloaded prompts and unclear instructions.  
 3. Updated the evaluation rubric section with real examples where the rubric worked and where it failed.  
 4. Wrote short checklists for future LLM experiments  
@@ -140,8 +140,8 @@ You turned the week into documentation instead of letting it evaporate.
 
 ### Result  
 
-Your LLM handbook is now more than notes from articles.  
-It reflects your own experiments and gives you a repeatable process for the next prototype.
+The LLM handbook is now more than notes from articles.  
+It reflects our own experiments and gives us a repeatable process for the next prototype.
 
 ---
 
@@ -149,18 +149,18 @@ It reflects your own experiments and gives you a repeatable process for the next
 
 ### Overview  
 
-You ended the week by reviewing what actually changed and where to push next.
+Ended the week by reviewing what actually changed and where to push next.
 
 ### Work Done  
 
 1. Summarised the impact of the RAG prototype  
-   it works for some cases, fails for others, and you know why.  
+   it works for some cases, fails for others, and we know why.  
 2. Reviewed average scores by dimension to see where the system is weakest.  
 3. Listed three concrete improvement paths  
    better retrieval, richer context selection and minor prompt refinements.  
-4. Noted ideas for a second very small prototype in a different domain to test how portable your process is.
+4. Noted ideas for a second very small prototype in a different domain to test how portable our process is.
 
 ### Result  
 
-You now have a working RAG flow, an evaluation loop and a logging habit.  
+We now have a working RAG flow, an evaluation loop and a logging habit.  
 The next step is not more theory, it is more experiments using the same disciplined pattern.
