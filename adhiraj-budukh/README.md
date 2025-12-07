@@ -164,5 +164,11 @@ https://github.com/Humanitariansai/Collaborators/blob/main/adhiraj-budukh/13Sept
 https://github.com/Humanitariansai/Collaborators/blob/main/adhiraj-budukh/20September_27September.md
 
 
+## November - December 2025
+
+### 28November_05_December_2025
+
+https://github.com/Humanitariansai/Collaborators/blob/main/adhiraj-budukh/28Nov_to_5Dec.md
+
 ------
 Ciao!!!
