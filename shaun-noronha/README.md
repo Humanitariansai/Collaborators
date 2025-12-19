@@ -105,4 +105,3 @@ https://github.com/Humanitariansai/Collaborators/blob/main/shaun-noronha/Week_3_
 ============================================================
 
 Ciao
-Add your details, refer your teammates readme file.
