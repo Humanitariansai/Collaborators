@@ -1,73 +1,162 @@
-# Weekly Report: LLM Prompt Testing, Evaluation, and Analytics
+Weekly Report: LLM Prompt Testing, Evaluation and Analytics Prompt Drafting
+===========================================================================
 
-**Date:** November 29 – December 5  
+**Date:** November 29 to December 5
+
 **Focus Areas:**
-* Support prompt testing and failure analysis
-* Prompt refinement and handbook updates
-* LLM answer evaluation using a simple scoring rubric
-* Initial analytics prompt drafting for a BimRide use case
 
----
+*   Support prompt testing and failure analysis
+    
+*   Prompt refinement and handbook updates
+    
+*   LLM answer evaluation using a simple scoring rubric
+    
+*   Initial analytics prompt drafting for a BimRide use case
+    
 
-## Executive Summary
-This week focused on applying LLM fundamentals in a practical, controlled environment. The primary goal was to pressure-test existing prompts, observe failure patterns, and establish a repeatable, evidence-based workflow for prompt improvement. Work was intentionally narrowed to support conversations and a preliminary analytics experiment to ensure depth over breadth.
+Overview
+--------
 
----
+This week focused on applying LLM fundamentals in a practical and controlled way rather than learning new theory.The goal was to pressure test existing prompts, observe failure patterns, and build a repeatable way to improve prompt quality using evaluation instead of intuition.
 
-## Daily Breakdown
+The work stayed intentionally narrow to avoid overload.Support conversations were used as the primary testing ground, followed by a small analytics prompt experiment to extend the same thinking into a different use case.
 
-### Day 1: Baseline Testing
-**Goal:** Establish a performance baseline using realistic support scenarios.
-* **Work Done:** Collected representative cases (ride cancellations, payment issues, delayed pickups, and account access).
-* **Process:** Ran raw conversations through existing prompts without any modifications.
-* **Result:** Established a "ground truth" baseline of model behavior under realistic conditions.
+Day 1: Support Conversation Selection and Baseline Prompt Testing
+-----------------------------------------------------------------
 
-### Day 2: Failure Pattern Identification
-**Goal:** Categorize systematic prompt weaknesses.
-* **Work Done:** Analyzed responses for clarity, correctness, tone, and completeness.
-* **Common Failures Identified:**
-    * **Vague Answers:** Lack of specific resolution.
-    * **Constraint Neglect:** Ignoring specific user instructions.
-    * **Overconfidence:** Hallucinating policy details.
-* **Result:** Documented concrete, repeatable failure patterns to be addressed systematically.
+### Overview
 
-### Day 3: Support Prompt Refinement
-**Goal:** Iterative prompt engineering based on Day 2 findings.
-* **Work Done:** * Updated system prompts to emphasize **Chain-of-Thought (CoT)** reasoning.
-    * Tightened language regarding escalation boundaries and brand tone.
-* **Result:** Responses became more structured and actionable with a noticeable reduction in generic "filler" text.
+Started by selecting a small set of realistic support scenarios to test against the current prompts.
 
-### Day 4: Evaluation via Scoring Rubric
-**Goal:** Transition from subjective "vibes" to objective measurement.
-* **Scoring Criteria:**
-    | Criteria | Description |
-    | :--- | :--- |
-    | **Correctness** | Is the information factually accurate? |
-    | **Clarity** | Is the response easy to understand? |
-    | **Tone** | Is the persona helpful and calm? |
-    | **Usefulness** | Does it provide a clear next step? |
-* **Result:** Qualitative improvements are now backed by quantitative scores, making the iteration process disciplined.
+### Work Done
 
-### Day 5: Handbook Updates
-**Goal:** Institutionalize knowledge.
-* **Work Done:** Added a **Troubleshooting Section** to the LLM Handbook.
-* **Content:** Documented "Before vs. After" prompt examples and specific patterns that consistently improved model output.
-* **Result:** The handbook now serves as a practical reference for the team.
+*   Collected representative support cases such as ride cancellation issues, payment confusion, delayed pickup complaints and account access problems
+    
+*   Ran these conversations through the existing support prompts without modification
+    
+*   Captured raw model responses exactly as generated
+    
 
-### Day 6: Analytics Prompt Drafting
-**Goal:** Apply support-case learnings to a new domain (BimRide Analytics).
-* **Scenario:** Summarizing weekly driver retention trends.
-* **Approach:** Drafted system prompts with strict scope limits and specific output structures (e.g., JSON or Markdown tables).
-* **Result:** A clean, exploratory draft ready for the same rubric-based testing used in support.
+### Result
 
-### Day 7: Review & Consolidation
-**Goal:** Final alignment check.
-* **Work Done:** Side-by-side comparison of baseline vs. refined responses.
-* **Outcome:** Confirmed that all prompt iterations were driven by data (failure patterns) rather than intuition.
+Established a clear baseline of how the current prompts behave under realistic conditions, without bias or tuning.
 
----
+Day 2: Failure Pattern Identification
+-------------------------------------
 
-## Key Takeaways
-> **Systematic Iteration:** Prompt engineering is more effective when treated as a debugging process (Identify Failure -> Categorize -> Refine -> Evaluate).
->
-> **Evidence over Intuition:** Using a scoring rubric removes bias and provides a clear audit trail for why certain prompt structures were chosen.
+### Overview
+
+Focused on identifying where and why the support prompts perform poorly.
+
+### Work Done
+
+*   Reviewed responses for clarity, correctness, tone and completeness
+    
+*   Flagged common failure modes such as vague answers, missed constraints, overconfidence and lack of actionable steps
+    
+*   Grouped failures into categories instead of treating each response as a one off issue
+    
+
+### Result
+
+Prompt weaknesses were no longer abstract.They were documented as concrete, repeatable failure patterns that can be fixed systematically.
+
+Day 3: Support Prompt Refinement
+--------------------------------
+
+### Overview
+
+Refined the support prompts based directly on observed failures rather than guesswork.
+
+### Work Done
+
+*   Adjusted system prompt instructions to emphasize step by step reasoning and clear resolution paths
+    
+*   Tightened language around tone and escalation boundaries
+    
+*   Re tested the same support conversations using the updated prompts
+    
+
+### Result
+
+Responses became more structured, calmer and more actionable, with fewer hallucinated or overly generic answers.
+
+Day 4: Evaluation Using Scoring Rubric
+--------------------------------------
+
+### Overview
+
+Applied a simple evaluation framework to make quality measurable instead of subjective.
+
+### Work Done
+
+*   Defined a lightweight scoring rubric covering correctness, clarity, tone and usefulness
+    
+*   Scored both original and refined responses using the same rubric
+    
+*   Wrote short notes explaining why a response scored high or low
+    
+
+### Result
+
+Prompt improvements could now be justified with evidence rather than intuition, making iteration more disciplined.
+
+Day 5: Handbook Updates and Troubleshooting Section
+---------------------------------------------------
+
+### Overview
+
+Captured learnings in the LLM handbook so progress does not stay only in memory.
+
+### Work Done
+
+*   Added a troubleshooting section describing common support prompt failures and fixes
+    
+*   Documented example bad answers versus improved answers
+    
+*   Recorded prompt patterns that consistently improved outcomes
+    
+
+### Result
+
+The handbook evolved into a practical reference instead of a theoretical notes file.
+
+Day 6: Analytics Use Case Selection and Prompt Drafting
+-------------------------------------------------------
+
+### Overview
+
+Extended the same prompt thinking into a small analytics use case.
+
+### Work Done
+
+*   Selected a simple analytics scenario such as summarizing weekly driver retention trends
+    
+*   Drafted a first version of system and user prompts focused on clarity, scope limits and output structure
+    
+*   Avoided over optimization and treated this as an exploratory draft
+    
+
+### Result
+
+Created a clean starting point for analytics prompts that can later be evaluated using the same rubric approach.
+
+Day 7: Review and Consolidation
+-------------------------------
+
+### Overview
+
+Reviewed the week’s work and checked alignment with the original goals.
+
+### Work Done
+
+*   Compared baseline and refined support responses side by side
+    
+*   Confirmed that prompt changes were driven by observed failures
+    
+*   Reviewed handbook completeness and noted gaps for future updates
+    
+
+### Result
+
+The week ended with tested prompts, documented learnings and a repeatable improvement process instead of scattered experimentation.
