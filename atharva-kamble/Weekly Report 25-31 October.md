@@ -10,8 +10,7 @@
 This week focused on unblocking three connected areas that were previously stuck  
 pricing fairness, shared dashboards and cross model documentation  
 
-The work moved from vague blockers to concrete progress  
-you created a cleaner starting data set for pricing, planned a shared schema for dashboards, drafted fairness rules and started an evaluation and documentation base for the models that already exist  
+The work moved from vague blockers to concrete progress we created a cleaner starting data set for pricing, planned a shared schema for dashboards, drafted fairness rules and started an evaluation and documentation base for the models that already exist  
 
 ---
 
@@ -29,7 +28,7 @@ Started by reviewing which trip and event fields are actually safe to use for pr
 
 ### Result  
 
-You now have a clear picture of what data is usable right now and what must be fixed later  
+We now have a clear picture of what data is usable right now and what must be fixed later  
 
 ---
 
@@ -83,8 +82,7 @@ Checked what is blocking dashboards at the analytics workspace level
 
 ### Result  
 
-Access problems are no longer abstract  
-you know exactly what has to change to unlock dashboard integration  
+Access problems are no longer abstract and we know exactly what has to change to unlock dashboard integration  
 
 ---
 
@@ -92,7 +90,7 @@ you know exactly what has to change to unlock dashboard integration
 
 ### Overview  
 
-With a cleaner data base, you drafted the first simple set of fairness rules for pricing  
+With a cleaner data base, we drafted the first simple set of fairness rules for pricing  
 
 ### Work Done  
 
@@ -120,7 +118,7 @@ Began designing how retention, support forecasting and pricing will be judged to
 
 ### Result  
 
-You now have a working proposal for evaluation and a living documentation structure that can be filled as the systems mature  
+We now have a working proposal for evaluation and a living documentation structure that can be filled as the systems mature  
 
 ---
 
