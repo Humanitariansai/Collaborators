@@ -5,7 +5,7 @@
 Welcome to my workspace!
 
 ## 🙋‍♂️ About Me
-Hi, I'm **Adhiraj Budukh**. This is my workspace for the **BIMRIDE** project, where I'm excited and proud to contribute to building something impactful and efficient. I've been working on Bimride's software and data analysis for a while.
+Hi, I'm **Adhiraj Budukh**. This is my workspace for the **BIMRIDE** and **Kalastra** projects, where I'm excited and proud to contribute to building something impactful and efficient. I've been working on Bimride's software and data analysis for a while.
 Now I'm switiching to research part.
 
 ## 💼 What This Repo Is For
