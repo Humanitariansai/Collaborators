@@ -2,7 +2,7 @@
 # 🚗 BIMRIDE And Kalastra Workspace
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Welcome to my BIMRIDE workspace!
+Welcome to my workspace!
 
 ## 🙋‍♂️ About Me
 Hi, I'm **Adhiraj Budukh**. This is my workspace for the **BIMRIDE** project, where I'm excited and proud to contribute to building something impactful and efficient. I've been working on Bimride's software and data analysis for a while.
@@ -14,12 +14,6 @@ Since, I am responsible for Product and Data Analysis, I will be doing research 
 
 ## 🤝 Contribution
 I'm happy to be part of this project and look forward to collaborating with other contributors. Feel free to connect or share feedback anytime.
-
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-#TIMESHEET INDEX
-
---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Timesheet & Progress Report Index (2025)
 Index links for all timesheets (all timesheets have been updated to the latest format as it has changed over time)
@@ -175,7 +169,7 @@ https://github.com/Humanitariansai/Collaborators/blob/main/adhiraj-budukh/15Dece
 
 https://github.com/Humanitariansai/Collaborators/blob/main/adhiraj-budukh/20December_31December.md
 
-## January 2026
+# Timesheet & Progress Report Index (2026)
 
 ### 1January_10January_2026
 
