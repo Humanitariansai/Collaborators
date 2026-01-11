@@ -178,5 +178,9 @@ https://github.com/Humanitariansai/Collaborators/blob/main/adhiraj-budukh/8Decem
 
 https://github.com/Humanitariansai/Collaborators/blob/main/adhiraj-budukh/15December_19December.md
 
+### 20December_31December_2025
+
+https://github.com/Humanitariansai/Collaborators/blob/main/adhiraj-budukh/20December_31December.md
+
 ------
 Ciao!!!
