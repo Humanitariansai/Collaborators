@@ -16,8 +16,11 @@ Since, I am responsible for Product and Data Analysis, I will be doing research 
 I'm happy to be part of this project and look forward to collaborating with other contributors. Feel free to connect or share feedback anytime.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #TIMESHEET INDEX
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Timesheet & Progress Report Index (2025)
 Index links for all timesheets (all timesheets have been updated to the latest format as it has changed over time)
 [Untill August 31 all timesheets  used to be on excel sheets as informed earlier]
@@ -25,32 +28,22 @@ Index links for all timesheets (all timesheets have been updated to the latest f
 ## Monthly Reports
 
 ### February_2025
-- Progress Report:  
   https://github.com/Humanitariansai/Collaborators/blob/main/adhiraj-budukh/February_2025_monthly_report.md
 
 ### March_April_2025
-- Progress Report:  
   https://github.com/Humanitariansai/Collaborators/blob/main/adhiraj-budukh/March_April_2025_report.md
 
 ### April_May_2025
-- Progress Report:  
   https://github.com/Humanitariansai/Collaborators/blob/main/adhiraj-budukh/April_May_report.md
 
 ## June–July Report Contents
-- DevOps vs MLOps  
-  https://github.com/Humanitariansai/Collaborators/blob/main/adhiraj-budukh/DevOps_vs_MLOps.md
-- SOP for Articles  
-  https://github.com/Humanitariansai/Collaborators/blob/main/adhiraj-budukh/SOP%20for%20Articles.md
-- Article1  
-  https://github.com/Humanitariansai/Collaborators/blob/main/adhiraj-budukh/Article1.md
-- Article2  
-  https://github.com/Humanitariansai/Collaborators/blob/main/adhiraj-budukh/Article2.md
-- Article3  
-  https://github.com/Humanitariansai/Collaborators/blob/main/adhiraj-budukh/Article3.md
-- Article4  
-  https://github.com/Humanitariansai/Collaborators/blob/main/adhiraj-budukh/Article4.md
-- Article5  
-  https://github.com/Humanitariansai/Collaborators/blob/main/adhiraj-budukh/Article5.md
+- DevOps vs MLOps : https://github.com/Humanitariansai/Collaborators/blob/main/adhiraj-budukh/DevOps_vs_MLOps.md
+- SOP for Articles : https://github.com/Humanitariansai/Collaborators/blob/main/adhiraj-budukh/SOP%20for%20Articles.md
+- Article1  :  https://github.com/Humanitariansai/Collaborators/blob/main/adhiraj-budukh/Article1.md
+- Article2  :  https://github.com/Humanitariansai/Collaborators/blob/main/adhiraj-budukh/Article2.md
+- Article3  :  https://github.com/Humanitariansai/Collaborators/blob/main/adhiraj-budukh/Article3.md
+- Article4  :  https://github.com/Humanitariansai/Collaborators/blob/main/adhiraj-budukh/Article4.md
+- Article5  :  https://github.com/Humanitariansai/Collaborators/blob/main/adhiraj-budukh/Article5.md
 
 ## July Timesheets
 
