@@ -17,6 +17,7 @@ Core deliverables:
 ---
 
 ## ⚙️ 2025-12-17 — Smart Load Balancing & Autoscaling
+**Author:** Shaun Noronha  
 
 ### 🎯 Objective
 To stabilize real-time API performance under sudden tourist load fluctuations, ensuring average latency under 100 ms.
@@ -93,6 +94,7 @@ The autoscaling pipeline ensured uninterrupted service for over 6 000 concurrent
 ---
 
 ## 🧠 2025-12-18 — Resource-Aware Model Scheduling
+**Author:** Shaun Noronha  
 
 ### 🎯 Objective
 Implement a hybrid **Ray + KServe scheduler** to route models to appropriate compute types (CPU/GPU/TPU) based on model complexity and latency needs.
@@ -155,6 +157,7 @@ Dynamic scheduling achieved optimal performance-to-cost ratio without manual sca
 ---
 
 ## 💾 2025-12-19 — Dynamic Caching System for Demand APIs
+**Author:** Shaun Noronha  
 
 ### 🎯 Objective
 Deploy a multi-layer **Redis caching** mechanism to eliminate redundant fare & ETA computations while maintaining data freshness.
@@ -213,6 +216,7 @@ Caching delivered sub-50 ms API responses even during Christmas Eve surge traffi
 ---
 
 ## 💰 2025-12-20 — FinOps AI for Cloud Cost Optimization
+**Author:** Shaun Noronha  
 
 ### 🎯 Objective
 Use predictive analytics to forecast and curb daily compute overspend while maintaining service reliability.
@@ -270,6 +274,7 @@ Bimride’s FinOps agent added an ethical finance layer aligning AI operations w
 ---
 
 ## 🛡️ 2025-12-21 — Disaster Recovery Drill
+**Author:** Shaun Noronha  
 
 ### 🎯 Objective
 Validate full data & service restoration during simulated **St James coast outage**.
@@ -312,6 +317,7 @@ Proved resilience against regional network failures, ensuring public trust.
 ---
 
 ## ⚙️ 2025-12-22 — Elastic Inference Deployment
+**Author:** Shaun Noronha  
 
 ### 🎯 Objective
 Integrate **AWS Inferentia** and **ONNX Runtime** to enable shared GPU inference and reduce carbon footprint.
@@ -361,6 +367,7 @@ Elastic inference achieved a balance between compute efficiency and ecological r
 ---
 
 ## 📊 2025-12-23 — Centralized Log Aggregation & Monitoring
+**Author:** Shaun Noronha  
 
 ### 🎯 Objective
 Establish a unified observability layer with Loki + Grafana to track logs and incidents in real-time.
@@ -398,6 +405,7 @@ Delivered proactive incident detection and accountability across all microservic
 ---
 
 ## 🎄 2025-12-24 → 2025-12-26 — Holiday Surge Monitoring
+**Author:** Shaun Noronha  
 
 ### 🎯 Objective
 Maintain uninterrupted ride services across Christmas & Boxing Day using full-stack automation.
